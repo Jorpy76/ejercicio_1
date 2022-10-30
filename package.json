@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio_1",
+  "version": "1.0.0",
+  "description": "ejercicio N°1 \"Introducción Javascript\"",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio_1":"node ejercicio.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jorpy76"
+  },
+  "keywords": [
+    "ejercicio",
+    "N°1",
+    "\"Introducción",
+    "Javascript\""
+  ],
+  "author": "Jorge Ríos",
+  "license": "ISC"
+}
